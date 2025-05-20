@@ -168,8 +168,13 @@ def print_banner(BoostsAmmount: int):
     banner2 = fade.purplepink(f'''{Fore.LIGHTBLUE_EX}
            
 
-                        
-        cleaned by https://github.com/7vix
+                     ██╗   ██╗██╗████████╗██████╗ ██╗   ██╗██╗  ██╗   
+                     ██║   ██║██║╚══██╔══╝██╔══██╗╚██╗ ██╔╝╚██╗██╔╝  
+                     ██║   ██║██║   ██║   ██████╔╝ ╚████╔╝  ╚███╔╝    
+                     ╚██╗ ██╔╝██║   ██║   ██╔══██╗  ╚██╔╝   ██╔██  
+                      ╚████╔╝ ██║   ██║   ██║  ██║   ██║   ██╔╝ ██╗ 
+                       ╚═══╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝     
+                          cleaned by https://github.com/7vix
         
 
                 Boosts Available: {BoostsAmmount}
