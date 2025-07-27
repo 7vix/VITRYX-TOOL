@@ -7,5 +7,5 @@ Open the file "VITRYX-TOOL.bat"
 4. For DM spammer (channel spammer) you put the channel ID and select the message to send.
 5. For the VITRYX-OSINT is simple to use, you select the choice 1, and write the username you want to search.
 6. And in settings you can customize the tool!
-more functions are in development.
+    more functions are in development.
 ## Powered by 7vix
