@@ -9,4 +9,4 @@ Open the file "VITRYX-TOOL.bat"
 6. And in settings you can customize the tool!
 7. more functions are in development.
 ## Powered by 7vix  
-  
+   
