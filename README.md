@@ -8,6 +8,6 @@ Open the file "VITRYX-TOOL.bat"
 5. For the VITRYX-OSINT is simple to use, you select the choice 1, and write the username you want to search.
 6. And in settings you can customize the tool!
 7. more functions are in development.
-## Powered by 7vix 
+## Powered by 7vix  
   
  
