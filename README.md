@@ -10,3 +10,4 @@ Open the file "VITRYX-TOOL.bat"
 7. more functions are in development.
 ## Powered by 7vix 
   
+ 
